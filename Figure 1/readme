@@ -1,0 +1,3 @@
+'data.mat' contains the data from the microfluidic experiment.
+'Fig1*.m' scripts generate the corresponding panels.
+'infogain.m' calculates the predictive power of an attribute.
