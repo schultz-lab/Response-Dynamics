@@ -1,3 +1,0 @@
-'data.xlsx' contains the data from the continuous culture experiments.
-'Fig3*.m' scripts generate the corresponding panels.
-'standCurve.m' calculates the relative abundance of the mexZ mutant from fluorescence measurements.
